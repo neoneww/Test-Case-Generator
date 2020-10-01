@@ -43,13 +43,13 @@ npm run dev
 
 ## Front End
 
-Using [React](https://react.com) I could conditionaly render different pages, each for each of the data structures and one the home screen.
+Using React I could conditionally render different pages, each for each of the data structures and one the home screen.
 
-To track the overall state of the app I am using [react-redux](https://react-redux.js.org/), which is a very useful package for tracking and making changes to the state in a complex heirarchy of components.
+To track the overall state of the app I am using react-redux, which is a very useful package for tracking and making changes to the state in a complex hierarchy of components.
 
-To appropriately take and validate user inputs for the form fields I am using [react-hook-form](https://react-hook-form.com/). This package allows easier form way to validate data and also improves performance by reducing the number of re-renders on uncontrolled components.
+To appropriately take and validate user inputs for the form fields I am using react-hook-form. This package allows an easier form of way to validate data and also improves performance by reducing the number of re-renders on uncontrolled components.
 
-And finally, for the UI I'm using [material-ui](https://material-ui.com/) which provides the ability to design by providing react components which can be used easily.
+And finally, for the UI I'm using material-UI which provides the ability to design by providing react components that can be used easily.
 
 ## Logic
 
